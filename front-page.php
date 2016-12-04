@@ -9,7 +9,8 @@ get_header(); ?>
 	<div class="hero-wrapper">
 		<div class="hero-slider">
 				<a href="/services/"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/banners/hero-banner-business-accountants.jpg" /></a>
-				<a href="/services/"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/banners/hero-banner-xero.jpg" /></a>
+				<a href="/services/#xero"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/banners/hero-banner-xero.jpg" /></a>
+				<a href="/services/#business-advisory"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/banners/hero-banner-business-advisory.jpg" /></a>
 		</div>
 	</div>
 

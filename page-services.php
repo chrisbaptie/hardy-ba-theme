@@ -9,7 +9,7 @@ get_header(); ?>
 	<div class="container">
 		<div class="full-width-content">
 			<h1><?php the_title(); ?></h1>
-			<p>We offer a range of services that can be tailored to each business – our aim is to help business owners improve their business and achieve their goals. If you have any questions, please <a href="/contact/">contact us</a> and we’ll be happy to assist.</p>
+			<p>We offer a range of services tailored to each business – our aim is to help small business owners use their business to set themselves up for life.</p>
 			<div class="services-sub-menu-extra-wrapper">
 				<div class="services-sub-menu-wrapper">
 					<div class="services-sub-menu">
@@ -90,7 +90,7 @@ get_header(); ?>
 
 					<h2>Xero</h2>
 
-					<img class="xero-silver-partner-logo" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/xero-silver-partner-logo.png" alt="Xero Silver Partner">
+					<img class="xero-silver-partner-logo" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/xero-gold-partner-logo.png" alt="Xero Gold Partner">
 
 					<p>Here at HardyHQ, we love Xero. We use it ourselves (in combination with other cloud tools). Here’s why:</p>
 

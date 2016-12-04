@@ -49,7 +49,7 @@
 		</div>
 		<div class="pillar half-width">
 			<div class="industry-logos">
-				<img id="xero-silver-partner-logo" width="150" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/xero-silver-partner-logo.png" alt="Xero Silver Partner">
+				<img id="xero-silver-partner-logo" width="150" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/xero-gold-partner-logo.png" alt="Xero Gold Partner">
 				<img id="ipa-logo" width="80" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/ipa-logo.png" alt="Institute of Public Accountants">
 				<img id="ntaa-logo" width="150" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/ntaa-logo.png" alt="National Tax &amp; Accountants Association">
 			</div>

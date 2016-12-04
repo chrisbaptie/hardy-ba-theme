@@ -35,7 +35,7 @@ get_header(); ?>
 	            <div class="clear"></div>
 	          </div>
 	          <div class="profile" id="chris-hardy">
-	            <img class="profile-image" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/profiles/profile-chris-hardy.jpg" alt="Chris Hardy">
+	            <img class="profile-image" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/profiles/profile-chris-hardy-colour.jpg" alt="Chris Hardy">
 	            <div class="info-wrapper">
 	              <h2>Chris Hardy</h2>
 	              <div class="actions">
