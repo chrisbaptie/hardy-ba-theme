@@ -9,9 +9,70 @@ get_header(); ?>
 			<div class="container">
 	      <div class="full-width-content">
 	        <h1><?php the_title(); ?></h1>
-	        <p class="intro-blurb">Our family owned and operated firm was founded by Steve in 1999. The firm has successfully grown almost exclusively because of referrals. Success is a team effort and we have a great team of qualified professionals:</p>
+					<div class="intro-blurb">
+						<p>With cloud accounting, screen sharing and video conferencing, we provide our services to businesses all across Australia. We are based on the Sunshine Coast and have been operating since 1999, when Steve Hardy founded the firm. We have grown completely organically without buying fees.</p>
+						<p>Our clients operate in various areas of the SME economy, including building and construction, property, manufacturing, retail, training, and the legal, engineering and finance professions. They also include franchisees from many popular franchises. Our clients appreciate:</p>
+					</div>
 	      </div>
 	    </div>
+			<div class="full-width-container style-c">
+				<div class="container">
+					<div class="full-width-content light">
+							<div class="row info-boxes-wrapper">
+								<div class="small-12 medium-6 large-4 columns">
+									<div class="info-box">
+										<span class="fa fa-graduation-cap fa-2x"></span>
+										<h3>Experience</h3>
+										<p>Our extensive experience in providing advice to businesses in a wide variety of industries and operating through many different structures.</p>
+									</div>
+								</div>
+								<div class="small-12 medium-6 large-4 columns">
+									<div class="info-box">
+										<span class="fa fa-user fa-2x"></span>
+										<h3>Accessibility</h3>
+										<p>Always having one of the team on hand who has detailed knowledge of your structures and dealings. We don’t charge for the small stuff like brief phone calls and emails.</p>
+									</div>
+								</div>
+								<div class="small-12 medium-6 large-4 columns">
+									<div class="info-box">
+										<span class="fa fa-lock fa-2x"></span>
+										<h3>Fixed Fees</h3>
+										<p>No fee surprises – pay monthly or yearly.</p>
+									</div>
+								</div>
+								<div class="small-12 medium-6 large-4 columns">
+									<div class="info-box">
+										<span class="fa fa-cloud fa-2x"></span>
+										<h3>Latest Tech Tools</h3>
+										<p>We’re always looking to use the best technologies to enhance your business.</p>
+									</div>
+								</div>
+								<div class="small-12 medium-6 large-4 columns">
+									<div class="info-box">
+										<span class="fa fa-star fa-2x"></span>
+										<h3>Stand Out Team</h3>
+										<p>We have a great mix of staff with extensive experience and knowledge and younger staff who love working with the latest technologies.</p>
+									</div>
+								</div>
+								<div class="small-12 medium-6 large-4 columns">
+									<div class="info-box">
+										<span class="fa fa-bullseye fa-2x"></span>
+										<h3>Straight Shooting Approach</h3>
+										<p>We deliver easy to understand advice without the jargon. We tell it like it is.</p>
+									</div>
+								</div>
+							</div>
+					</div>
+					<div class="clear"></div>
+				</div>
+			</div>
+			<div class="container">
+				<div class="full-width-content">
+					<div class="team-blurb">
+						<p>From knowledge of complex tax law and the latest time-saving cloud technologies to decades of experience and know-how, we have a powerful team there to help you achieve your goals.</p>
+					</div>
+				</div>
+			</div>
 	    <div class="full-width-container style-c">
 	      <div class="container">
 	        <div class="profiles">

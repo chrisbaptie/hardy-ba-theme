@@ -6,19 +6,52 @@ get_header(); ?>
 
 <div class="our-services">
 
+	<h1><?php the_title(); ?></h1>
+
+	<div class="hero-wrapper">
+		<div class="hero-slider">
+				<div><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/banners/hero-banner-services-alt.jpg" alt="Services"/></div>
+		</div>
+	</div>
+
 	<div class="container">
 		<div class="full-width-content">
-			<h1><?php the_title(); ?></h1>
-			<p>We offer a range of services tailored to each business – our aim is to help small business owners use their business to set themselves up for life.</p>
+			<p>Everything we do is focussed on helping small to medium business owners improve their business and achieve their goals. With this in mind, we offer three core services:</p>
+
+			<div class="service-box-wrapper">
+					<div class="service-boxes-panel">
+						<div class="row">
+							<div class="small-12 medium-4 columns">
+								<a href="/services/#accounting-and-taxation">
+									<img class="service-icon" alt="" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/service-icons/accounting-and-taxation.png" />
+									<h3>Accounting &amp; Taxation</h3>
+								</a>
+							</div>
+							<div class="small-12 medium-4 columns">
+								<a href="/services/#reporting">
+									<img class="service-icon" alt="" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/service-icons/reporting-light.png" />
+									<h3>Reporting</h3>
+								</a>
+							</div>
+							<div class="small-12 medium-4 columns">
+								<a href="/services/#business-advisory">
+									<img class="service-icon" alt="" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/service-icons/business-advisory.png" />
+									<h3>Business Advisory</h3>
+								</a>
+							</div>
+						</div>
+					</div>
+			</div>
+
 			<div class="services-sub-menu-extra-wrapper">
 				<div class="services-sub-menu-wrapper">
 					<div class="services-sub-menu">
 						<ul>
 							<li><a href="/services/#accounting-and-taxation">Accounting &amp;<br>Taxation</a></li>
-							<li><a href="/services/#business-advisory">Business<br>Advisory</a></li>
+							<li><a href="/services/#reporting" class="single-line">Reporting</a></li>
+							<li><a href="/services/#business-advisory">Business Advisory<br>&amp; Coaching</a></li>
 							<li><a href="/services/#smsf" class="single-line">SMSF</a></li>
-							<li><a href="/services/#xero" class="single-line">Xero</a></li>
-							<li><a href="/services/#cloud-accounting">Cloud Accounting<br>&amp; Software</a></li>
+							<li><a href="/services/#xero">Xero &amp;<br>Cloud Accounting</a></li>
 						</ul>
 					</div>
 				</div>
@@ -27,19 +60,40 @@ get_header(); ?>
 		</div>
 	</div>
 
-	<div class="full-width-container style-a">
+	<div class="full-width-container style-b">
 		<div class="container">
 			<div class="services-wrapper">
 
 				<div class="service-wrapper" id="accounting-and-taxation">
 					<h2>Number Crunching: Accounting &amp; Taxation</h2>
-
-					<p>We’re big on proactive and strategic tax planning. Minimise your tax and operate in the most tax effective structure for your circumstances. Your structure will determine how profits are taxed, who pays the tax and how often. Take profits in the most tax effective manner and satisfy your tax obligations in a way that is best for your cash flow.</p>
-
+					<h3>We specialise in small and medium business taxation.</h3>
+					<p>At least yearly, we meet with all of our clients to implement the latest tax strategies, minimise tax and plan for upcoming tax liabilities. Tax planning is critical because after 30 June, it’s often too late.</p>
+					<p>Minimise your tax and operate in the most tax effective structure for your circumstances. Your structure will determine how profits are taxed, who pays the tax and how often. Take profits in the most tax effective manner and satisfy your tax obligations in a way that is best for your cash flow.</p>
 					<p>As part of efficient, accurate, real-time (cloud) accounting, have your tax and accounting obligations taken care of so you can focus on your business. Choose for us to work on your accounts quarterly or monthly and have up-to-date financials throughout the year</p>
+
+					<ul class="bullet-time">
+						<li class="single-line"><span class="fa fa-check-square-o fa-lg make-it-green"></span>Plan and minimise tax as best as possible, implement latest strategies.</li>
+						<li class="single-line"><span class="fa fa-check-square-o fa-lg make-it-green"></span>Know your tax payments 12 months in advance.</li>
+					</ul>
+
+					<ul class="bullet-time question-time">
+						<li>Does your accountant see you to make sure you have minimised tax with the latest strategies and know your upcoming payments before 30 June?</li>
+						<li>Are you in the best structure for tax purposes?</li>
+					</ul>
 
 				</div>
 
+			</div>
+		</div>
+
+		<div class="full-width-banner banner-number-crunching">
+			<div class="row">
+				<div class="small-12 medium-6 columns">
+	      	<!-- Space! -->
+	      </div>
+				<div class="small-12 medium-6 columns">
+	        <div class="quote">"At least yearly, we meet with all of our clients to implement the latest tax strategies, minimise tax and plan for upcoming tax liabilities."</div>
+	      </div>
 			</div>
 		</div>
 	</div>
@@ -48,21 +102,74 @@ get_header(); ?>
 		<div class="container">
 			<div class="services-wrapper">
 
+				<div class="service-wrapper" id="reporting">
+					<h2>Reporting</h2>
+					<p>For business owners that want something more than basic tax and accounting services but don’t require full scale business advisory, we have developed a Reporting package.</p>
+
+					<div class="row">
+
+						<div class="small-12 large-6 columns">
+							<p>In short, we provide cloud-based business performance reports to business owners every month. Track your business performance as it happens – don't go a year without having accountant reviewed figures! </p>
+							<p>The reports are tailored suit your business. They are easy to understand and include more than just balance sheets and P&amp;L's. They include graphs, trends and information on your important numbers.</p>
+							<p><strong>Know your numbers:</strong> monitor the key numbers that drive your business. If you don’t know these figures and how you can change them, you need a new accountant!</p>
+							<p><strong>Take action and achieve great things:</strong> set yourself some goals and monitor your progress. Detect trends early and if necessary, make changes to your strategy sooner rather than later. If you need advice on strategy or a sounding board to bounce ideas off each month, please see our Business Advisory and Coaching packages <a href="/services/#business-advisory">below</a>.</p>
+						</div>
+
+						<div class="small-12 large-6 columns">
+							<ul class="bullet-time">
+								<li class="single-line"><span class="fa fa-check-square-o fa-lg make-it-green"></span>Real-time monitoring: tracking performance as it happens with real-time reports direct to your inbox.</li>
+								<li class="single-line"><span class="fa fa-check-square-o fa-lg make-it-green"></span>Know your numbers: this is critical to your success.</li>
+								<li class="single-line"><span class="fa fa-check-square-o fa-lg make-it-green"></span>Take action and achieve great things: make better and timely decisions for your financial future.</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+
+		<div class="full-width-banner banner-reporting">
+			<div class="row">
+				<div class="small-12 columns">
+	        <div class="quote quote-centered">"If you don’t know the numbers important to your business and how you can change them, you need a new accountant."</div>
+	      </div>
+			</div>
+		</div>
+
+	</div>
+
+	<div class="full-width-container style-b">
+		<div class="container">
+			<div class="services-wrapper">
+
 				<div class="service-wrapper" id="business-advisory">
-					<h2>Business Advisory</h2>
+					<h2>Business Advisory &amp; Coaching</h2>
 
-					<p>We’re here to help with more than number crunching. We help you get the most out of your business to achieve your goals.</p>
+					<h3>We’re making business coaching affordable</h3>
 
-					<p>Make use of our <stron>real-time management reports</strong> to make the best decisions for your financial future. Understand the numbers that drive your business, plan for success and stay on track.</p>
+					<p>We’ve seen external business coaches charge our clients $2,000 + per month. It’s not feasible for a lot of small businesses and often too complicated. So we’ve developed our Business Success Packages. </p>
+					<p>Our Business Success Packages are built upon years of informal discussions, meetings and advice to business owners that have resulted in dramatic improvements to business performance. We’ve worked with a large amount of small and medium businesses (from zero to 200 employees!) so we know what works and what doesn’t work. </p>
+					<p>We provide a simple and easy to understand process for business owners to increase profits and business value. We identify the numbers that drive your business and your profit and value improvement potential. We set targets and develop strategies to achieve them. The strategies will involve Financial Metrics, Sales, People and Technology. </p>
+					<p>We report to you on performance as part of our monthly ‘board’ meetings. We provide an honest account of the figures, make you accountable and adjust strategies to make sure you stay on track. </p>
+					<p>Importantly, Steve and Chris are both with you at each meeting and throughout the process. Leverage their combined skillset, knowledge and first-hand experience of family business workings to make the most out of your business. </p>
+					<p>From knowledge of complex tax law and the latest time-saving cloud technologies to decades of experience and know-how, they are a powerful team there to help you achieve your goals. Read more about them <a href="/about-us/">here</a>.</p>
+
+					<ul class="bullet-time">
+						<li class="single-line"><span class="fa fa-check-square-o fa-lg make-it-green"></span>Accounting, Tax and Business Coaching all in one place.</li>
+						<li class="single-line"><span class="fa fa-check-square-o fa-lg make-it-green"></span>Know where you could be and how to get there.</li>
+						<li class="single-line"><span class="fa fa-check-square-o fa-lg make-it-green"></span>Real-time numbers and ‘board’ meetings with highly experience advisors.</li>
+					</ul>
+
+					<h3>Business Advisory tools to get the most out of your business</h3>
 
 					<p>Please also get in touch for help with:</p>
 
 					<ul class="bullet-time">
-						<li><span class="fa fa-check-square-o fa-lg"></span><strong>Maximising your profit and business value:</strong> making more for your hard work. Tried and tested strategies to increase profit and stimulate growth. Constant, real-time monitoring so your finger is always on the profit pulse.</li>
-						<li><span class="fa fa-check-square-o fa-lg"></span><strong>Improving your cash flow:</strong> because we know earning money and receiving it are two entirely separate things! Cash is king.</li>
-						<li><span class="fa fa-check-square-o fa-lg"></span><strong>Structuring your business:</strong> how your business is structured can affect how your profits are taxed, who pays the tax and when the tax is paid. Are you often out of cash because of quarterly PAYG instalments? Correct structuring is also important to protect business and personal assets.</li>
-						<li><span class="fa fa-check-square-o fa-lg"></span><strong>Protecting your assets:</strong> protect what you have worked hard for. Are you confident that everything you have worked for is protected?</li>
-						<li><span class="fa fa-check-square-o fa-lg"></span><strong>Saving time and using technology:</strong> streamline and automate your bookkeeping and administration. Structure your processes to give yourself more time to work on your business or more time out of it!</li>
+						<li><span class="fa fa-check-square-o fa-lg make-it-green"></span><strong>Maximising your profit and business value:</strong> making more for your hard work. Tried and tested strategies to increase profit and stimulate growth. Constant, real-time monitoring so your finger is always on the profit pulse.</li>
+						<li><span class="fa fa-check-square-o fa-lg make-it-green"></span><strong>Improving your cash flow:</strong> because we know earning money and receiving it are two entirely separate things! Cash is king.</li>
+						<li><span class="fa fa-check-square-o fa-lg make-it-green"></span><strong>Structuring your business:</strong> how your business is structured can affect how your profits are taxed, who pays the tax and when the tax is paid. Are you often out of cash because of quarterly PAYG instalments? Correct structuring is also important to protect business and personal assets.</li>
+						<li><span class="fa fa-check-square-o fa-lg make-it-green"></span><strong>Protecting your assets:</strong> protect what you have worked hard for. Are you confident that everything you have worked for is protected?</li>
+						<li><span class="fa fa-check-square-o fa-lg make-it-green"></span><strong>Saving time and using technology:</strong> streamline and automate your bookkeeping and administration. Structure your processes to give yourself more time to work on your business or more time out of it!</li>
 					</ul>
 
 				</div>
