@@ -2209,6 +2209,16 @@ body:after{content:"desktop";display:none;}
     margin-top: 0;
   }
 
+  // Question Time
+  .question-time {
+    margin: 30px 10px 0;
+
+    li {
+      font-size: 12px;
+      line-height: 16px;
+    }
+  }
+
   // Info Boxes
   .info-boxes-wrapper {
     padding-top: 15px;
