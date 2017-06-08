@@ -89,10 +89,10 @@ get_header(); ?>
 		<div class="full-width-banner banner-number-crunching">
 			<div class="row">
 				<div class="small-12 medium-6 columns">
-	      	<!-- Space! -->
+	        <div class="quote">"At least yearly, we meet with all of our clients to implement the latest tax strategies, minimise tax and plan for upcoming tax liabilities."</div>
 	      </div>
 				<div class="small-12 medium-6 columns">
-	        <div class="quote">"At least yearly, we meet with all of our clients to implement the latest tax strategies, minimise tax and plan for upcoming tax liabilities."</div>
+	      	<!-- Space! -->
 	      </div>
 			</div>
 		</div>

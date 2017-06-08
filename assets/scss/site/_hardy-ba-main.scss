@@ -883,11 +883,11 @@ ul.top-bar-menu li:hover > ul {
   min-height: 240px;
 
   &.banner-number-crunching {
-    background-image: url('../images/banners/temp-banner-image.jpg')
+    background-image: url('../images/banners/xero-image-numbers.jpg')
   }
 
   &.banner-reporting {
-    background-image: url('../images/banners/temp-banner-image-2.jpg')
+    background-image: url('../images/banners/xero-image-tax.jpg')
   }
 
   .quote {
@@ -1737,7 +1737,15 @@ body:after{content:"desktop";display:none;}
     width: 70%;
   }
 
-  // Our People
+  // Services
+
+  .full-width-banner {
+    &.banner-number-crunching {
+      background-image: url('../images/banners/xero-image-numbers-mobile.jpg')
+    }
+  }
+
+  // About Us
 
   .profiles {
     margin: 0 30px;
@@ -2012,7 +2020,21 @@ body:after{content:"desktop";display:none;}
     width: 70%;
   }
 
-  // Our People
+  // Services
+
+  .full-width-banner {
+    &.banner-number-crunching {
+      background-image: url('../images/banners/xero-image-numbers-mobile.jpg')
+    }
+  }
+
+  // About Us
+
+  .full-width-banner {
+    &.banner-number-crunching {
+      background-image: url('../images/banners/xero-image-numbers-mobile.jpg')
+    }
+  }
 
   .profiles {
     margin: 0 20px;

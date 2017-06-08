@@ -5,13 +5,13 @@
 		<a href="http://www.swimfit.com.au/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/client-logos/colour/client-logos-swim-fit.png" /></a>
 		<a href="http://www.karloo.com.au/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/client-logos/colour/client-logos-karloo.png" /></a>
 		<a href="http://www.physiocare.com.au/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/client-logos/colour/client-logos-physio-care.png" /></a>
-		<a href="http://www.geoconsulting.com.au/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/client-logos/colour/client-logos-geo.png" /></a>
 		<a href="http://www.greatwesternhotel.com.au/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/client-logos/colour/client-logos-great-western-hotel.png" /></a>
 		<a href="http://www.caloundra-aquatic.com.au/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/client-logos/colour/client-logos-calc.png" /></a>
 		<a href="http://futureoceans.com/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/client-logos/colour/client-logos-future-oceans.png" /></a>
 		<a href="http://www.completeconcretecuttingqld.com.au/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/client-logos/colour/client-logos-complete-concrete.png" /></a>
 		<a href="http://www.axialawyers.com.au/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/client-logos/colour/client-logos-axia.png" /></a>
 		<a href="http://www.axisglass.com.au/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/client-logos/colour/client-logos-axis-glass.png" /></a>
+		<a href="http://www.evalynparsons.com" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/client-logos/colour/client-logos-parson.png" /></a>
 		<!-- <div><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/client-logos/client-logos-7-11-f.png" /></div>
 		<div><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/client-logos/client-logos-andersons-f.png" /></div>
 		<div><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/client-logos/client-logos-caltex-f.png" /></div>

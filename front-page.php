@@ -56,10 +56,10 @@ get_header(); ?>
 	<div class="container">
 		<div class="home-blurb full-width-content">
 			<h1>A note from us</h1>
-			<p>Welcome to Hardy Business Accountants! Please have a browse through our website and see how we help business owners get the most out of their business and achieve their goals – from start-up to sale and everything in between.</p>
-			<p>At our family owned firm, we are experts in our field. We work exclusively with business owners like <a href="/clients/">these</a>. We provide them with the very best in accounting, taxation and business advice. Our advice is based on years of practical, hands on experience and we tell it like it is.</p>
-			<p>We’re also big on using technology to make business life easier and to give business owners more time. We love using software like <a href="/services/">Xero</a> and the applications that can plug into it.</p>
-			<p>Our fees are fixed - we don’t charge for the small stuff. We also tailor our services to each business, helping them as little or as much as they like. <a href="/services/">Find out more.</a></p>
+			<p>At Hardy Business Accountants, we get a kick out of seeing business owners achieve great things. In fact, our whole purpose is to help small business owners set themselves up for life.</p>
+			<p>We're tax and accounting experts, working exclusively with business owners like these. We provide them with the very best in accounting, taxation and business advice. Our advice is based on years of practical, hands on experience and we tell it like it is.</p>
+			<p>We're also big on using technology to make business life easier and to give business owners more time. We love using software like <a href="/services/">Xero</a> and the applications that can plug into it.</p>
+			<p>Our fees are fixed - we don't charge for the small stuff. We also tailor our services to each business, helping them as little or as much as they like. <a href="/services/">Find out more.</a></p>
 			<p>If you think you could benefit from our help, please get in <a href="/contact/">touch</a>.</p>
 		</div>
 	</div>
