@@ -2,11 +2,12 @@
 
 /***** Variables *****/
 
-$colour-a: #0454a2; // handsome blue
+$colour-a: #0d2fd6; // handsome blue
 $colour-b: #4b4b4b; // dark grey
 $colour-c: #1e1d1e; // quite dark grey
 $colour-d: #413e42; // medium grey
 $colour-e: #a0b4c7; // light blue grey
+$colour-f: #2172eb; // dark contrast blue
 
 $font-primary:  open_sans_light, Times, Arial, sans-serif;
 $font-secondary: open_sans_regular, Arial, sans-serif;
@@ -582,7 +583,7 @@ ul.top-bar-menu li:hover > ul {
     margin-top: 48px;
 
     span.contact-label {
-      color: lighten($colour-a, 10%);
+      color: $colour-f;
       text-transform: uppercase;
       text-align: right;
       width: 85px;
@@ -605,7 +606,7 @@ ul.top-bar-menu li:hover > ul {
     font-size: 14px;
 
     a {
-      color: lighten($colour-a, 10%);
+      color: $colour-f;
     }
   }
 }
