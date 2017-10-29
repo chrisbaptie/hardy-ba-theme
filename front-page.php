@@ -18,31 +18,25 @@ get_header(); ?>
 		<div class="container">
 			<div class="service-boxes-panel">
 				<div class="row">
-					<div class="small-12 medium-4 custom-large-one-fifth columns">
+					<div class="small-12 medium-6 large-3 columns">
 						<a href="/services/#accounting-and-taxation">
 							<img class="service-icon" alt="" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/service-icons/accounting-and-taxation.png" />
 							<h3>Accounting &amp; Taxation</h3>
 						</a>
 					</div>
-					<div class="small-12 medium-4 custom-large-one-fifth columns">
+					<div class="small-12 medium-6 large-3 columns">
 						<a href="/services/#reporting">
 							<img class="service-icon" alt="" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/service-icons/reporting-light.png" />
 							<h3>Reporting</h3>
 						</a>
 					</div>
-					<div class="small-12 medium-4 custom-large-one-fifth columns">
+					<div class="small-12 medium-6 large-3 columns">
 						<a href="/services/#business-advisory">
 							<img class="service-icon" alt="" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/service-icons/business-advisory.png" />
 							<h3>Business Advisory</h3>
 						</a>
 					</div>
-					<div class="small-12 medium-4 custom-large-one-fifth columns">
-						<a href="/services/#smsf">
-							<img class="service-icon" alt="" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/service-icons/smsf-alt.png" />
-							<h3>SMSF</h3>
-						</a>
-					</div>
-					<div class="small-12 medium-4 custom-large-one-fifth columns">
+					<div class="small-12 medium-6 large-3 columns">
 						<a href="/services/#xero">
 							<img class="service-icon" alt="" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/service-icons/xero-logo-light.png" />
 							<h3>Xero &amp; Cloud Accounting</h3>

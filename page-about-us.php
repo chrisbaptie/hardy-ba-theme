@@ -147,23 +147,6 @@ get_header(); ?>
 	              </div>
 	              <div class="clear"></div>
 	            </div>
-							<div class="profile" id="jessica-langsdorf">
-		              <img class="profile-image" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/profiles/profile-jessica-langsdorf-colour.jpg" alt="Jessica Langsdorf">
-		              <div class="info-wrapper">
-		                <h2>Jessica Langsdorf</h2>
-		                <div class="actions">
-		                  <a href="/contact/?recipient=Jess#contact-form-wrapper" class="email-wrapper"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/icons/email-icon.png"><span>Email Jess</span></a>
-		                </div>
-		                <h3>Undergraduate Accountant and Xero Superstar</h3>
-		                <ul>
-		                  <li>Currently studying Bachelor of Commerce (Accounting) – University of Southern Queensland</li>
-		                  <li>Certified Xero Advisor</li>
-											<li>Receipt Bank Guru</li>
-		                  <li>Jess has worked with us for over seven years and has recently made the transition from administration to accounting.</li>
-		                </ul>
-		              </div>
-		              <div class="clear"></div>
-		            </div>
 	          </div>
 	        </div>
 	      </div>

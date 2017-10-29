@@ -50,7 +50,6 @@ get_header(); ?>
 							<li><a href="/services/#accounting-and-taxation">Accounting &amp;<br>Taxation</a></li>
 							<li><a href="/services/#reporting" class="single-line">Reporting</a></li>
 							<li><a href="/services/#business-advisory">Business Advisory<br>&amp; Coaching</a></li>
-							<li><a href="/services/#smsf" class="single-line">SMSF</a></li>
 							<li><a href="/services/#xero">Xero &amp;<br>Cloud Accounting</a></li>
 						</ul>
 					</div>
@@ -172,18 +171,6 @@ get_header(); ?>
 						<li><span class="fa fa-check-square-o fa-lg make-it-green"></span><strong>Saving time and using technology:</strong> streamline and automate your bookkeeping and administration. Structure your processes to give yourself more time to work on your business or more time out of it!</li>
 					</ul>
 
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<div class="full-width-container style-a">
-		<div class="container">
-			<div class="services-wrapper">
-				<div class="service-wrapper" id="smsf">
-					<h2>SMSF</h2>
-					<p>We can establish self-managed superannuation funds, prepare the year-end compliance, financial statements and tax returns and provide advice on the tax implications and employer obligations surrounding superannuation.</p>
-					<div class="clear"></div>
 				</div>
 			</div>
 		</div>
