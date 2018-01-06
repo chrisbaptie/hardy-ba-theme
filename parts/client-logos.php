@@ -10,11 +10,11 @@
 		<a href="http://www.completeconcretecuttingqld.com.au/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/client-logos/colour/client-logos-complete-concrete.png" /></a>
 		<a href="http://www.axialawyers.com.au/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/client-logos/colour/client-logos-axia.png" /></a>
 		<a href="http://www.evalynparsons.com" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/client-logos/colour/client-logos-evalyn-parsons.png" /></a>
-		<a href="#" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/client-logos/colour/client-logos-majestic-developments.png" /></a>
+		<a><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/client-logos/colour/client-logos-majestic-developments.png" /></a>
 		<a href="http://csmechanic.com" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/client-logos/colour/client-logos-csm.png" /></a>
 		<a href="http://www.gfccafe.com.au/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/client-logos/colour/client-logos-gfc.png" /></a>
 		<a href="http://www.extensionleadsaustralia.com.au/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/client-logos/colour/client-logos-extension-leads.png" /></a>
-		<a href="#" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/client-logos/colour/client-logos-geotechnical.png" /></a>
+		<a><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/client-logos/colour/client-logos-geotechnical.png" /></a>
 		<a href="https://www.facebook.com/theamericanhotdogcompany" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/client-logos/colour/client-logos-the-american-hotdog-company.png" /></a>
 		<a href="http://ship-your-reno.com/" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/client-logos/colour/client-logos-ship-your-reno.png" /></a>
 		<a href="https://www.facebook.com/thepocketespressobar" target="_blank"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/client-logos/colour/client-logos-the-pocket.png" /></a>
