@@ -28,8 +28,7 @@
 						<div class="pillar-row email"><span class="contact-label">Email</span>info@hardyba.com.au</div>
 					</div>
 					<div class="pillar two-thirds-width">
-						<div class="pillar-row"><span class="contact-label address">Address</span>Suite 14, 76 Wises Road PO Box 5924</div>
-						<div class="pillar-row"><span class="address-line">Headland Business Park Maroochydore, Qld 4558</span></div>
+						<div class="pillar-row"><span class="contact-label address">Address</span>1/80-82 Sixth Avenue Maroochydore QLD 4558</div>
 					</div>
 				</div>
 			</div>
@@ -45,7 +44,7 @@
 <div class="lower-footer">
 	<div class="container">
 		<div class="pillar half-width">
-			<div class="copyright-line">&copy; Hardy Business Accountants</div>
+			<div class="copyright-line">&copy; Hardy Business Advisory</div>
 		</div>
 		<div class="pillar half-width">
 			<div class="industry-logos">

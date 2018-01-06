@@ -50,7 +50,7 @@ get_header(); ?>
 	<div class="container">
 		<div class="home-blurb full-width-content">
 			<h1>A note from us</h1>
-			<p>At Hardy Business Accountants, we get a kick out of seeing business owners achieve great things. In fact, our whole purpose is to help small business owners set themselves up for life.</p>
+			<p>At Hardy Business Advisory, we get a kick out of seeing business owners achieve great things. In fact, our whole purpose is to help small business owners set themselves up for life.</p>
 			<p>We're tax and accounting experts, working exclusively with business owners like these. We provide them with the very best in accounting, taxation and business advice. Our advice is based on years of practical, hands on experience and we tell it like it is.</p>
 			<p>We're also big on using technology to make business life easier and to give business owners more time. We love using software like <a href="/services/">Xero</a> and the applications that can plug into it.</p>
 			<p>Our fees are fixed - we don't charge for the small stuff. We also tailor our services to each business, helping them as little or as much as they like. <a href="/services/">Find out more.</a></p>
